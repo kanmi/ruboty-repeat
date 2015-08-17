@@ -1,5 +1,3 @@
-require "ruboty/repeat/actions/repeat"
-
 module Ruboty
   module Handlers
     class Repeat < Base
